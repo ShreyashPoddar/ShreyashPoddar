@@ -149,30 +149,72 @@ shreyash = {
 
 ## 🧩 DSA &amp; Problem Solving
 
+<div align="center">
+
+![Algorithms](https://img.shields.io/badge/Algorithms-6366f1?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-10b981?style=for-the-badge&logo=graphql&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-ef4444?style=for-the-badge&logo=codeforces&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-f59e0b?style=for-the-badge&logo=speedtest&logoColor=white)
+
+*Think in constraints. Pick the right structure. Prove the complexity.*
+
+</div>
+
+### 🗺️ How I approach a problem
+
+```mermaid
+flowchart LR
+    A([📖 Understand]) --> B([📏 Read constraints])
+    B --> C([🐢 Brute force])
+    C --> D([🔍 Find the bottleneck])
+    D --> E([🧱 Pick structure / technique])
+    E --> F([🧪 Edge cases])
+    F --> G([📈 Prove complexity])
+    G --> H([✅ Ship])
+    style A fill:#6366f1,stroke:#4338ca,color:#fff
+    style B fill:#ec4899,stroke:#be185d,color:#fff
+    style C fill:#ef4444,stroke:#b91c1c,color:#fff
+    style D fill:#f59e0b,stroke:#b45309,color:#fff
+    style E fill:#10b981,stroke:#047857,color:#fff
+    style F fill:#06b6d4,stroke:#0e7490,color:#fff
+    style G fill:#8b5cf6,stroke:#6d28d9,color:#fff
+    style H fill:#22c55e,stroke:#15803d,color:#fff
+```
+
+### 🧰 The toolkit
+
+| Category | Skills |
+| :-- | :-- |
+| 🧬 **Paradigms** | ![Divide & Conquer](https://img.shields.io/badge/Divide%20%26%20Conquer-6366f1?style=flat-square&labelColor=6366f1) ![Greedy](https://img.shields.io/badge/Greedy-6366f1?style=flat-square&labelColor=6366f1) ![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-6366f1?style=flat-square&labelColor=6366f1) ![Backtracking](https://img.shields.io/badge/Backtracking-6366f1?style=flat-square&labelColor=6366f1) ![Recursion](https://img.shields.io/badge/Recursion-6366f1?style=flat-square&labelColor=6366f1) ![Randomized Algorithms](https://img.shields.io/badge/Randomized%20Algorithms-6366f1?style=flat-square&labelColor=6366f1) ![Algorithm Design & Optimization](https://img.shields.io/badge/Algorithm%20Design%20%26%20Optimization-6366f1?style=flat-square&labelColor=6366f1) |
+| 🧭 **Algorithms** | ![Graph Algorithms](https://img.shields.io/badge/Graph%20Algorithms-ec4899?style=flat-square&labelColor=ec4899) ![String Algorithms](https://img.shields.io/badge/String%20Algorithms-ec4899?style=flat-square&labelColor=ec4899) ![Searching](https://img.shields.io/badge/Searching-ec4899?style=flat-square&labelColor=ec4899) ![Sorting](https://img.shields.io/badge/Sorting-ec4899?style=flat-square&labelColor=ec4899) ![Topological Sort](https://img.shields.io/badge/Topological%20Sort-ec4899?style=flat-square&labelColor=ec4899) ![Shortest Paths](https://img.shields.io/badge/Shortest%20Paths-ec4899?style=flat-square&labelColor=ec4899) ![Meet in the Middle](https://img.shields.io/badge/Meet%20in%20the%20Middle-ec4899?style=flat-square&labelColor=ec4899) |
+| 🧱 **Data Structures** | ![Arrays](https://img.shields.io/badge/Arrays-10b981?style=flat-square&labelColor=10b981) ![Strings](https://img.shields.io/badge/Strings-10b981?style=flat-square&labelColor=10b981) ![Linked Lists](https://img.shields.io/badge/Linked%20Lists-10b981?style=flat-square&labelColor=10b981) ![Stacks](https://img.shields.io/badge/Stacks-10b981?style=flat-square&labelColor=10b981) ![Queues](https://img.shields.io/badge/Queues-10b981?style=flat-square&labelColor=10b981) ![Deques](https://img.shields.io/badge/Deques-10b981?style=flat-square&labelColor=10b981) ![Hash Tables](https://img.shields.io/badge/Hash%20Tables-10b981?style=flat-square&labelColor=10b981) ![Sets](https://img.shields.io/badge/Sets-10b981?style=flat-square&labelColor=10b981) ![Heaps](https://img.shields.io/badge/Heaps-10b981?style=flat-square&labelColor=10b981) ![Priority Queues](https://img.shields.io/badge/Priority%20Queues-10b981?style=flat-square&labelColor=10b981) ![Trees](https://img.shields.io/badge/Trees-10b981?style=flat-square&labelColor=10b981) ![BSTs](https://img.shields.io/badge/BSTs-10b981?style=flat-square&labelColor=10b981) ![Balanced Trees](https://img.shields.io/badge/Balanced%20Trees-10b981?style=flat-square&labelColor=10b981) ![Tries](https://img.shields.io/badge/Tries-10b981?style=flat-square&labelColor=10b981) ![Graphs](https://img.shields.io/badge/Graphs-10b981?style=flat-square&labelColor=10b981) ![Disjoint Set Union](https://img.shields.io/badge/Disjoint%20Set%20Union-10b981?style=flat-square&labelColor=10b981) |
+| ⚡ **Techniques** | ![Two Pointers](https://img.shields.io/badge/Two%20Pointers-f59e0b?style=flat-square&labelColor=f59e0b) ![Sliding Window](https://img.shields.io/badge/Sliding%20Window-f59e0b?style=flat-square&labelColor=f59e0b) ![Prefix / Suffix](https://img.shields.io/badge/Prefix%20%2F%20Suffix-f59e0b?style=flat-square&labelColor=f59e0b) ![Binary Search on Answer](https://img.shields.io/badge/Binary%20Search%20on%20Answer-f59e0b?style=flat-square&labelColor=f59e0b) ![Fast & Slow Pointers](https://img.shields.io/badge/Fast%20%26%20Slow%20Pointers-f59e0b?style=flat-square&labelColor=f59e0b) ![Monotonic Stack / Queue](https://img.shields.io/badge/Monotonic%20Stack%20%2F%20Queue-f59e0b?style=flat-square&labelColor=f59e0b) ![Hashing](https://img.shields.io/badge/Hashing-f59e0b?style=flat-square&labelColor=f59e0b) ![Bit Manipulation](https://img.shields.io/badge/Bit%20Manipulation-f59e0b?style=flat-square&labelColor=f59e0b) ![Coordinate Compression](https://img.shields.io/badge/Coordinate%20Compression-f59e0b?style=flat-square&labelColor=f59e0b) ![Sweep Line](https://img.shields.io/badge/Sweep%20Line-f59e0b?style=flat-square&labelColor=f59e0b) ![Interval Techniques](https://img.shields.io/badge/Interval%20Techniques-f59e0b?style=flat-square&labelColor=f59e0b) ![Range Queries](https://img.shields.io/badge/Range%20Queries-f59e0b?style=flat-square&labelColor=f59e0b) |
+| 📈 **Analysis** | ![Time & Space Complexity](https://img.shields.io/badge/Time%20%26%20Space%20Complexity-06b6d4?style=flat-square&labelColor=06b6d4) ![Big-O](https://img.shields.io/badge/Big--O-06b6d4?style=flat-square&labelColor=06b6d4) ![Amortized Analysis](https://img.shields.io/badge/Amortized%20Analysis-06b6d4?style=flat-square&labelColor=06b6d4) ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-06b6d4?style=flat-square&labelColor=06b6d4) ![Memory Optimization](https://img.shields.io/badge/Memory%20Optimization-06b6d4?style=flat-square&labelColor=06b6d4) ![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-06b6d4?style=flat-square&labelColor=06b6d4) ![Trade-off Analysis](https://img.shields.io/badge/Trade--off%20Analysis-06b6d4?style=flat-square&labelColor=06b6d4) |
+| 🛠️ **Engineering** | ![Clean & Modular Code](https://img.shields.io/badge/Clean%20%26%20Modular%20Code-8b5cf6?style=flat-square&labelColor=8b5cf6) ![Debugging](https://img.shields.io/badge/Debugging-8b5cf6?style=flat-square&labelColor=8b5cf6) ![Edge-case Handling](https://img.shields.io/badge/Edge--case%20Handling-8b5cf6?style=flat-square&labelColor=8b5cf6) ![I/O Optimization](https://img.shields.io/badge/I%2FO%20Optimization-8b5cf6?style=flat-square&labelColor=8b5cf6) ![Memory Management](https://img.shields.io/badge/Memory%20Management-8b5cf6?style=flat-square&labelColor=8b5cf6) ![Scalable Solution Design](https://img.shields.io/badge/Scalable%20Solution%20Design-8b5cf6?style=flat-square&labelColor=8b5cf6) ![Mathematical Reasoning](https://img.shields.io/badge/Mathematical%20Reasoning-8b5cf6?style=flat-square&labelColor=8b5cf6) |
+| 🏆 **Practice** | ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-ef4444?style=flat-square&labelColor=ef4444) ![Interview Problem Solving](https://img.shields.io/badge/Interview%20Problem%20Solving-ef4444?style=flat-square&labelColor=ef4444) |
+
+### 🎯 Pattern → Tool
+
 <details open>
-<summary><b>Algorithms · Data Structures · Techniques</b></summary>
+<summary><b>My go-to reflexes</b> (click to collapse)</summary>
 <br/>
 
-**Paradigms**  
-![Divide & Conquer](https://img.shields.io/badge/Divide%20%26%20Conquer-0b2a3a?style=flat-square&labelColor=30363d) ![Greedy](https://img.shields.io/badge/Greedy-0b2a3a?style=flat-square&labelColor=30363d) ![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-0b2a3a?style=flat-square&labelColor=30363d) ![Backtracking](https://img.shields.io/badge/Backtracking-0b2a3a?style=flat-square&labelColor=30363d) ![Recursion](https://img.shields.io/badge/Recursion-0b2a3a?style=flat-square&labelColor=30363d) ![Randomized Algorithms](https://img.shields.io/badge/Randomized%20Algorithms-0b2a3a?style=flat-square&labelColor=30363d) ![Algorithm Design & Optimization](https://img.shields.io/badge/Algorithm%20Design%20%26%20Optimization-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Algorithms**  
-![Graph Algorithms](https://img.shields.io/badge/Graph%20Algorithms-0b2a3a?style=flat-square&labelColor=30363d) ![String Algorithms](https://img.shields.io/badge/String%20Algorithms-0b2a3a?style=flat-square&labelColor=30363d) ![Searching](https://img.shields.io/badge/Searching-0b2a3a?style=flat-square&labelColor=30363d) ![Sorting](https://img.shields.io/badge/Sorting-0b2a3a?style=flat-square&labelColor=30363d) ![Topological Sort](https://img.shields.io/badge/Topological%20Sort-0b2a3a?style=flat-square&labelColor=30363d) ![Shortest Paths](https://img.shields.io/badge/Shortest%20Paths-0b2a3a?style=flat-square&labelColor=30363d) ![Meet in the Middle](https://img.shields.io/badge/Meet%20in%20the%20Middle-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Data Structures**  
-![Arrays](https://img.shields.io/badge/Arrays-0b2a3a?style=flat-square&labelColor=30363d) ![Strings](https://img.shields.io/badge/Strings-0b2a3a?style=flat-square&labelColor=30363d) ![Linked Lists](https://img.shields.io/badge/Linked%20Lists-0b2a3a?style=flat-square&labelColor=30363d) ![Stacks](https://img.shields.io/badge/Stacks-0b2a3a?style=flat-square&labelColor=30363d) ![Queues](https://img.shields.io/badge/Queues-0b2a3a?style=flat-square&labelColor=30363d) ![Deques](https://img.shields.io/badge/Deques-0b2a3a?style=flat-square&labelColor=30363d) ![Hash Tables](https://img.shields.io/badge/Hash%20Tables-0b2a3a?style=flat-square&labelColor=30363d) ![Sets](https://img.shields.io/badge/Sets-0b2a3a?style=flat-square&labelColor=30363d) ![Heaps](https://img.shields.io/badge/Heaps-0b2a3a?style=flat-square&labelColor=30363d) ![Priority Queues](https://img.shields.io/badge/Priority%20Queues-0b2a3a?style=flat-square&labelColor=30363d) ![Trees](https://img.shields.io/badge/Trees-0b2a3a?style=flat-square&labelColor=30363d) ![BSTs](https://img.shields.io/badge/BSTs-0b2a3a?style=flat-square&labelColor=30363d) ![Balanced Trees](https://img.shields.io/badge/Balanced%20Trees-0b2a3a?style=flat-square&labelColor=30363d) ![Tries](https://img.shields.io/badge/Tries-0b2a3a?style=flat-square&labelColor=30363d) ![Graphs](https://img.shields.io/badge/Graphs-0b2a3a?style=flat-square&labelColor=30363d) ![Disjoint Set Union](https://img.shields.io/badge/Disjoint%20Set%20Union-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Techniques**  
-![Two Pointers](https://img.shields.io/badge/Two%20Pointers-0b2a3a?style=flat-square&labelColor=30363d) ![Sliding Window](https://img.shields.io/badge/Sliding%20Window-0b2a3a?style=flat-square&labelColor=30363d) ![Prefix / Suffix](https://img.shields.io/badge/Prefix%20%2F%20Suffix-0b2a3a?style=flat-square&labelColor=30363d) ![Binary Search on Answer](https://img.shields.io/badge/Binary%20Search%20on%20Answer-0b2a3a?style=flat-square&labelColor=30363d) ![Fast & Slow Pointers](https://img.shields.io/badge/Fast%20%26%20Slow%20Pointers-0b2a3a?style=flat-square&labelColor=30363d) ![Monotonic Stack / Queue](https://img.shields.io/badge/Monotonic%20Stack%20%2F%20Queue-0b2a3a?style=flat-square&labelColor=30363d) ![Hashing](https://img.shields.io/badge/Hashing-0b2a3a?style=flat-square&labelColor=30363d) ![Bit Manipulation](https://img.shields.io/badge/Bit%20Manipulation-0b2a3a?style=flat-square&labelColor=30363d) ![Coordinate Compression](https://img.shields.io/badge/Coordinate%20Compression-0b2a3a?style=flat-square&labelColor=30363d) ![Sweep Line](https://img.shields.io/badge/Sweep%20Line-0b2a3a?style=flat-square&labelColor=30363d) ![Interval Techniques](https://img.shields.io/badge/Interval%20Techniques-0b2a3a?style=flat-square&labelColor=30363d) ![Range Queries](https://img.shields.io/badge/Range%20Queries-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Analysis**  
-![Time & Space Complexity](https://img.shields.io/badge/Time%20%26%20Space%20Complexity-0b2a3a?style=flat-square&labelColor=30363d) ![Big-O](https://img.shields.io/badge/Big--O-0b2a3a?style=flat-square&labelColor=30363d) ![Amortized Analysis](https://img.shields.io/badge/Amortized%20Analysis-0b2a3a?style=flat-square&labelColor=30363d) ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-0b2a3a?style=flat-square&labelColor=30363d) ![Memory Optimization](https://img.shields.io/badge/Memory%20Optimization-0b2a3a?style=flat-square&labelColor=30363d) ![Bottleneck Analysis](https://img.shields.io/badge/Bottleneck%20Analysis-0b2a3a?style=flat-square&labelColor=30363d) ![Trade-off Analysis](https://img.shields.io/badge/Trade--off%20Analysis-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Engineering**  
-![Clean & Modular Code](https://img.shields.io/badge/Clean%20%26%20Modular%20Code-0b2a3a?style=flat-square&labelColor=30363d) ![Debugging](https://img.shields.io/badge/Debugging-0b2a3a?style=flat-square&labelColor=30363d) ![Edge-case Handling](https://img.shields.io/badge/Edge--case%20Handling-0b2a3a?style=flat-square&labelColor=30363d) ![I/O Optimization](https://img.shields.io/badge/I%2FO%20Optimization-0b2a3a?style=flat-square&labelColor=30363d) ![Memory Management](https://img.shields.io/badge/Memory%20Management-0b2a3a?style=flat-square&labelColor=30363d) ![Scalable Solution Design](https://img.shields.io/badge/Scalable%20Solution%20Design-0b2a3a?style=flat-square&labelColor=30363d) ![Mathematical Reasoning](https://img.shields.io/badge/Mathematical%20Reasoning-0b2a3a?style=flat-square&labelColor=30363d)
-
-**Practice**  
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-0b2a3a?style=flat-square&labelColor=30363d) ![Interview Problem Solving](https://img.shields.io/badge/Interview%20Problem%20Solving-0b2a3a?style=flat-square&labelColor=30363d)
+| When I see… | I reach for… |
+| :-- | :-- |
+| Sorted data / monotonic yes-no answer | 🔎 Binary Search (on index **or on answer**) |
+| Longest / shortest subarray under a constraint | 🪟 Sliding Window · Two Pointers |
+| Repeated range sums or queries | ➕ Prefix Sums · Range Query Structures |
+| Overlapping subproblems, optimal substructure | 🧮 Dynamic Programming |
+| Dependencies, ordering, prerequisites | 🕸️ Topological Sort |
+| Connectivity, grouping, merging components | 🔗 Disjoint Set Union |
+| Weighted routes between nodes | 🛣️ Shortest-Path Algorithms |
+| Next greater / smaller element, nearest-in-range | 📚 Monotonic Stack / Queue |
+| Prefix lookups, dictionary of strings | 🌳 Tries · Hashing |
+| Intervals, overlaps, events on a timeline | 🧹 Sweep Line · Interval Techniques |
+| Subset / permutation search with pruning | ♟️ Backtracking |
+| Huge value ranges, small element count | 🗜️ Coordinate Compression |
+| Fast set / flag tricks | 🔢 Bit Manipulation |
+| Search space too big for brute force | ✂️ Meet in the Middle · Divide & Conquer |
 
 </details>
 
