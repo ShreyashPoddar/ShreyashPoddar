@@ -29,7 +29,6 @@ shreyash = {
     "top_builds": ["AuraHR — Agentic Hiring Platform", "PAA — On-device Android AI Assistant", "Quantum Circuit Simulator"],
     "languages" : ["English", "Hindi", "Tamil"],
     "currently" : "Researching quantum-native backends & cybersecurity (confidential) 🔒",
-    "fun_fact"  : "I simulate quantum algorithms before my morning coffee ☕",
 }
 ```
 
