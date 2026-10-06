@@ -272,10 +272,8 @@ flowchart LR
 | :-- | :-- | :-- |
 | 🛡️ **[LLM Firewall](https://github.com/ShreyashPoddar/llm-firewall)** · [model](https://huggingface.co/ShreyashPoddar/llm-firewall-deberta-v3-small) · [live demo](https://huggingface.co/spaces/ShreyashPoddar/llm-firewall-demo) · [write-up](https://www.lesswrong.com/posts/8oGjCgd5wGTihtuLk/a-small-prompt-injection-detector-that-catches-injections-1) | Prompt-injection detector for AI agents, evaluated on sources it never saw in training. On indirect injections hidden in emails: **F1 0.882 vs 0.570** for the ProtectAI baseline. Reports false positives, long-document position, perturbation robustness and failure cases | `PyTorch` `Transformers` `DeBERTa-v3` `scikit-learn` `transformers.js` `HF Spaces` |
 | 🤖 **[PAA — Personal Assistant Agent](https://github.com/ShreyashPoddar/PersonalAssistantAgent)** | Private, on-device Android assistant that turns WhatsApp/Telegram chats and voice commands into scheduled, reminded tasks. Understands English + Hinglish, hands-free wake word, encrypted storage | `Kotlin` `Jetpack Compose` `Hilt` `Room` `SQLCipher` `Gemma 3n` `MediaPipe` `Gemini` `Vosk` `WorkManager` |
-| 🧑‍💼 **[AuraHR](https://github.com/ShreyashPoddar/AuraHR.in)** | Agentic AI recruitment &amp; talent-intelligence platform: resume intake, LLM evaluation, technical verification, interviews, hiring analytics | `Next.js` `Node.js` `PostgreSQL` `Prisma` `Redis` `AWS` |
-| ⛰️ **SafeSlope-NER** | Landslide monitoring &amp; emergency-response platform: IoT telemetry, ML hazard scoring, GIS, WhatsApp reporting, CAP alerts | `FastAPI` `React` `PostGIS` `Redis` `Twilio` |
-| 🎓 **SEPS 2.0** | Student–faculty engineering project allocation &amp; lifecycle platform serving thousands of concurrent users | `React` `Express` `Prisma` `MySQL/TiDB` `Docker` |
-| ⚛️ **[QuantumSimulator](https://github.com/ShreyashPoddar/QuantumSimulator)** | Browser-based simulator: Bell states, teleportation, BB84, Grover, Deutsch–Jozsa, QFT, phase estimation, Shor — with Bloch-sphere &amp; phasor views | `JavaScript` `Canvas API` `Three.js` |
+| ⛰️ **[SafeSlope-NER](https://github.com/ShreyashPoddar/SafeSlope-NER)** | Landslide monitoring &amp; emergency-response platform: IoT telemetry, ML hazard scoring, GIS, WhatsApp reporting, CAP alerts | `FastAPI` `React` `PostGIS` `Redis` `Twilio` |
+| 🧑‍💼 **[AuraHR](https://github.com/ShreyashPoddar/AuraHRSystem)** | Agentic AI recruitment &amp; talent-intelligence platform, built during my NeevCloud internship: resume intake, LLM evaluation, technical verification, interviews, hiring analytics | `Next.js` `Node.js` `PostgreSQL` `Prisma` `Redis` `AWS` |
 
 ---
 
@@ -283,11 +281,11 @@ flowchart LR
 
 | | Achievement | When |
 | :-: | :-- | :-- |
-| 🎓 | **Merit Scholarship, SRM** — perfect 10.0 CGPA in 2nd year | 2nd year |
-| 📈 | **Highest SGPA in section, Dept. of ECE, SRM** — perfect 10.0 SGPA in 3 of 4 semesters | 2024 – present |
-| 🚀 | **Fastathon hackathon** — placed and earned the Software Development Internship at NeevCloud | Apr 2026 |
-| 🥉 | **3rd place, Tech Mesh Grand Prix (Swap Edition)** — Dept. of Computing Technologies, SRM | Sep 2025 |
-| 🎤 | **Best Presentation, Pythoneers: Code, Create and Conquer** — ACM SIGCHI, SRM | Aug 2024 |
+| 🚀 | **Fastathon hackathon** — placed and earned the Software Development Internship at NeevCloud | 04/2026 |
+| 🎓 | **Merit Scholarship, SRM** — perfect 10.0 CGPA in 2nd year | 2025 – 2026 |
+| 📈 | **Highest SGPA in section, Dept. of ECE, SRM** — perfect 10.0 SGPA in 3 of 4 semesters | 2024 – 2026 |
+| 🥉 | **3rd place, Tech Mesh Grand Prix (Swap Edition)** — Dept. of Computing Technologies, SRM | 09/2025 |
+| 🎤 | **Best Presentation, Pythoneers: Code, Create and Conquer** — ACM SIGCHI, SRM | 08/2024 |
 
 ---
 
